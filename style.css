@@ -56,3 +56,17 @@ header {
   height: 100%;
   width: 100%;
 }
+
+footer {
+  background-color: #111;
+  color: #fff;
+  text-align: center;
+  padding: 1rem 0;
+  font-size: 0.9rem;
+  letter-spacing: 0.5px;
+  margin-top: 0;
+}
+
+footer strong {
+  color: #00aaff;
+}
